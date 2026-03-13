@@ -47,7 +47,9 @@ qual foi seu impacto imediato.
 > e a primeira condenação sob o Computer Fraud and Abuse Act.
 
 **Fontes citadas pelo NotebookLM:**
-- (verifique quais fontes apareceram na resposta)
+- 122246.122248.pdf
+- História da guerra cibernética e os 5 ataques mais notórios - Fortinet
+- Evolução da cibersegurança: Uma breve linha do tempo - ManageEngine Blog
 
 **Qualidade da resposta:** ⭐⭐⭐⭐
 
@@ -96,7 +98,9 @@ da cibersegurança.
 > na segurança de sistemas industriais (OT/SCADA).
 
 **Fontes citadas pelo NotebookLM:**
-- (verifique quais apareceram)
+- artigo A GUERRA CIBERNÉTICA SOB A ÓTICA DE CLAUSEWITZ: UM ESTUDO DE CASO SOBRE O STUXNET - Portal de Revistas da USP
+- “Fully Operational: Stuxnet 15 Years Later and the Evolution of Cyber Threats to Critical Infrastructure” - Homeland Security Committee
+- w32_stuxnet_dossier.pdf
 
 **Qualidade da resposta:** ⭐⭐⭐⭐⭐
 
@@ -125,7 +129,9 @@ em comum e o que os diferencia?
 > destruição física real.
 
 **Fontes citadas pelo NotebookLM:**
-- (verifique quais apareceram)
+- 122246.122248.pdf
+- STALKING THE WILY HACKER.pdf
+- Evolução da cibersegurança: Uma breve linha do tempo - ManageEngine Blog
 
 **Qualidade da resposta:** ⭐⭐⭐⭐⭐
 
@@ -156,7 +162,11 @@ vulnerabilidades e resposta a incidentes.
 > criação dos CERTs (Morris Worm) e honeypots (Cuckoo's Egg).
 
 **Fontes citadas pelo NotebookLM:**
-- (verifique quais apareceram)
+- A Historia do Firewall - Alliances
+- TENDÊNCIAS EM CIBERSEGURANÇA: uma análise em grupos de discussão - Even3
+- História da guerra cibernética e os 5 ataques mais notórios - Fortinet
+- NCCIC ICS_FactSheet_WannaCry_Ransomware_S508C.pdf
+- “Fully Operational: Stuxnet 15 Years Later and the Evolution of Cyber Threats to Critical Infrastructure” - Homeland Security Committee
 
 **Qualidade da resposta:** ⭐⭐⭐⭐⭐
 
