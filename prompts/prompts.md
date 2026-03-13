@@ -107,5 +107,71 @@ da cibersegurança.
 
 ---
 
+## PROMPT 04
+
+**Prompt utilizado:**
+```
+Compare os vetores de ataque do Cuckoo's Egg, 
+do Morris Worm e do Stuxnet. O que eles têm 
+em comum e o que os diferencia?
+```
+
+**Resposta obtida:**
+> Análise comparativa dos três ataques. Em comum: todos 
+> comprometeram infraestruturas críticas e exploraram falhas 
+> sistêmicas básicas. Diferenças: ação humana vs. automação, 
+> nível de sofisticação crescente, e impacto digital vs. físico. 
+> Destaque para o Stuxnet como primeira arma cibernética com 
+> destruição física real.
+
+**Fontes citadas pelo NotebookLM:**
+- (verifique quais apareceram)
+
+**Qualidade da resposta:** ⭐⭐⭐⭐⭐
+
+**Cicatriz / Dificuldade encontrada:**
+> Nenhuma — o prompt comparativo foi o que gerou a resposta 
+> mais analítica e madura do projeto até agora. Prompts que 
+> pedem comparação tendem a extrair mais profundidade do que 
+> prompts descritivos simples.
+> 
+---
+
+## PROMPT 05
+
+**Prompt utilizado:**
+```
+Com base nos ataques estudados, quais práticas de 
+segurança defensiva surgiram ou foram fortalecidas 
+como resposta direta a esses incidentes? Organize 
+por categoria: rede, endpoint, gestão de 
+vulnerabilidades e resposta a incidentes.
+```
+
+**Resposta obtida:**
+> Resposta organizada em 4 categorias com práticas defensivas 
+> conectadas diretamente aos ataques estudados: firewalls e IDS 
+> (Morris Worm), segmentação de rede (Stuxnet/WannaCry), controle 
+> de mídias removíveis (Stuxnet), MFA (Cuckoo's Egg/Morris Worm), 
+> criação dos CERTs (Morris Worm) e honeypots (Cuckoo's Egg).
+
+**Fontes citadas pelo NotebookLM:**
+- (verifique quais apareceram)
+
+**Qualidade da resposta:** ⭐⭐⭐⭐⭐
+
+**Cicatriz / Dificuldade encontrada:**
+> Nenhuma — o prompt estruturado por categorias foi muito eficaz.
+> Pedir organização por categoria gerou uma resposta diretamente 
+> aproveitável como conteúdo final do miniguia.
+
+---
+
 ## Lições Aprendidas
-> (preencher ao final de todos os prompts)
+> 1. Prompts comparativos e estruturados por categoria extraem 
+>    respostas mais ricas do que perguntas descritivas simples.
+> 2. Quando a IA é vaga, reformular com foco em consequências 
+>    em vez de técnica resolve a limitação.
+> 3. Pedir organização explícita (por categoria, por formato) 
+>    melhora muito a qualidade da resposta final.
+```
