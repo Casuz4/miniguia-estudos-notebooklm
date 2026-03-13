@@ -1,38 +1,24 @@
-# 📚 Curadoria de Fontes
+## Fontes Utilizadas
 
-## Fontes principais utilizadas no NotebookLM
+As respostas do NotebookLM foram geradas a partir dos seguintes documentos carregados no notebook:
 
----
+• Stoll, Clifford. *The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage.*  
+• Stoll, Clifford. *Stalking the Wily Hacker* (1988)
 
-### Fonte 1
-**Título:** Stalking the Wily Hacker
-**Autor:** Clifford Stoll
-**Ano:** 1988
-**Publicação:** Communications of the ACM, Vol. 31, No. 5
-**Relevância:** Relato técnico em primeira pessoa do caso Cuckoo's Egg — como o invasor foi detectado, monitorado e rastreado até a Alemanha.
+• Artigo: *A Guerra Cibernética sob a Ótica de Clausewitz: um Estudo de Caso sobre o Stuxnet* – Portal de Revistas da USP
 
----
+• Fortinet – *História da guerra cibernética e os 5 ataques mais notórios*
 
-### Fonte 2
-**Título:** Hackers: Computer Heroes or Electronic Highwaymen?
-**Autor:** Richard C. Hollinger
-**Ano:** 1991
-**Publicação:** Computers & Society, Vol. 21, No. 1
-**Relevância:** Contextualiza o surgimento do crime cibernético nos anos 80/90, menciona o Morris Worm e o caso Cuckoo's Egg dentro do cenário social e legal da época.
+• ManageEngine – *Evolução da cibersegurança: Uma breve linha do tempo*
 
----
+• Homeland Security Committee – *Fully Operational: Stuxnet 15 Years Later and the Evolution of Cyber Threats to Critical Infrastructure*
 
-### Fontes 3 a 12
-**Origem:** Sugeridas automaticamente pelo NotebookLM com base no tema do caderno.
-**Nota:** Estas fontes complementaram os temas de WannaCry, Stuxnet, legislação de crimes cibernéticos e práticas defensivas modernas.
+• NCCIC – *ICS FactSheet WannaCry Ransomware*
 
-> 💡 Dica: Para visualizar todas as fontes utilizadas, acesse o notebook diretamente em [notebooklm.google.com](https://notebooklm.google.com)
+• Alliances – *A História do Firewall*
 
----
+• Even3 – *Tendências em Cibersegurança: uma análise em grupos de discussão*
 
-## Critérios de seleção
-As fontes foram escolhidas com base em:
-- Relevância direta para os ataques históricos estudados
-- Credibilidade acadêmica ou institucional
-- Disponibilidade gratuita em formato aberto
-- Cobertura técnica e histórica complementar
+Algumas fontes utilizadas no NotebookLM foram arquivos PDF acadêmicos e relatórios técnicos
+sobre incidentes históricos de segurança, incluindo estudos sobre o Morris Worm e o
+relatório técnico do malware Stuxnet.
