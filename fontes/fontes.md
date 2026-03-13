@@ -2,7 +2,7 @@
 
 As respostas do NotebookLM foram geradas a partir dos seguintes documentos carregados no notebook:
 
-• Stoll, Clifford. The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage. 1989.*  
+• Stoll, Clifford. The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage. 1989.
 • Stoll, Clifford. *Stalking the Wily Hacker* (1988)
 
 • Artigo: *A Guerra Cibernética sob a Ótica de Clausewitz: um Estudo de Caso sobre o Stuxnet* – Portal de Revistas da USP
